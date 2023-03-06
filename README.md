@@ -1,2 +1,26 @@
-# Meu-primero-projeto-com-CSS-puro
-Mostra o meu primeiro desenvolvimento com o puro do CSS.
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="img/html5-logo-31822.png"/>
+    <title>CSS3</title>
+</head>
+<body>
+    <main class="conteudo__principal">
+        <section class="conteudo__secundario">
+            <h1>CSS3</h1>
+             <p> CSS é a sigla para Cascading Style Sheets, ou seja, Folhas de Estilo em Cascatas. É uma maneira de dar estilo ao código criado por linguagens como HTML, XML ou XHTML, por exemplo. De forma prática, ela funciona como uma camada de personalização ao conteúdo visível.</p>
+        </section>
+
+
+        <img class="imagem__CSS" src="img/html5-logo-31822.png" alt="html logo">
+
+
+
+    </main>
+    
+</body>
+</html>
